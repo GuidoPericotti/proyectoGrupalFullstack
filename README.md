@@ -10,10 +10,8 @@ Para este proyecto se va a implementar:
 
 ## Repositorio
 
-```sh
-cd dillinger
-npm i
-node app
+```
+https://github.com/GuidoPericotti/proyectoGrupalFullstack.git
 ```
 
 ## Requisitos del proyecto 
